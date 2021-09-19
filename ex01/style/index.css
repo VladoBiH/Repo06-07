@@ -1,0 +1,27 @@
+h1 {text-align: center; color: red; margin-bottom: 50px;}
+h3 {color: lightblue;}
+div {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+    margin-right: 25px;
+}
+
+div img {
+    padding: auto;
+    width: 350px;
+
+  }
+
+  div.image {
+    display: block;
+  }
+
+div.text {
+    width: 320px;
+    display: block;
+    margin: auto;
+    text-align: justify;
+}
+
+ 
